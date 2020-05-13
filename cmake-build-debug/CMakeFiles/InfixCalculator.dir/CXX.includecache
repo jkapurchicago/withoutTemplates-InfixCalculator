@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/sam/CLionProjects/C++/InfixCalculator/main.cpp
+cstdio
+-
+cstring
+-
+cctype
+-
+iostream
+-
+stack.h
+/Users/sam/CLionProjects/C++/InfixCalculator/stack.h
+
+/Users/sam/CLionProjects/C++/InfixCalculator/stack.h
+cstdlib
+-
+stdexcept
+-
+vector.h
+/Users/sam/CLionProjects/C++/InfixCalculator/vector.h
+new
+-
+
+/Users/sam/CLionProjects/C++/InfixCalculator/vector.h
+cstdlib
+-
+stdexcept
+-
+new
+-
+
